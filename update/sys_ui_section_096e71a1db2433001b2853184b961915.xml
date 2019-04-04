@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="096e71a1db2433001b2853184b961915" sys_domain="global" table="x_68723_test_app_pdf_template" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-01 12:21:48</sys_created_on>
+            <sys_id>056ef1e1db2433001b2853184b9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_68723_test_app_pdf_template" sys_domain="global" view="Default view">096e71a1db2433001b2853184b961915</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-01 12:21:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-01 12:21:48</sys_created_on>
+            <sys_id>c96ef1e1db2433001b2853184b9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_68723_test_app_pdf_template" sys_domain="global" view="Default view">096e71a1db2433001b2853184b961915</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-01 12:21:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>body</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-01 12:21:48</sys_created_on>
+            <sys_id>4d6ef1e1db2433001b2853184b9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_68723_test_app_pdf_template" sys_domain="global" view="Default view">096e71a1db2433001b2853184b961915</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-01 12:21:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-01 12:21:48</sys_created_on>
+            <sys_id>cd6ef1e1db2433001b2853184b9619f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_68723_test_app_pdf_template" sys_domain="global" view="Default view">096e71a1db2433001b2853184b961915</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-01 12:21:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-01 12:21:48</sys_created_on>
+            <sys_id>416ef1e1db2433001b2853184b9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_68723_test_app_pdf_template" sys_domain="global" view="Default view">096e71a1db2433001b2853184b961915</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-01 12:21:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_68723_test_app_pdf_template</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-01 12:21:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>096e71a1db2433001b2853184b961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_68723_test_app_pdf_template</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test App" source="x_68723_test_app">2b6af2a5db1033001b2853184b96195a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test App">2b6af2a5db1033001b2853184b96195a</sys_scope>
+            <sys_update_name>sys_ui_section_096e71a1db2433001b2853184b961915</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-01 12:21:48</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

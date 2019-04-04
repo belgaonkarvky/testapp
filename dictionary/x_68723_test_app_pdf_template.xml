@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="PDF Template " max_length="40" name="x_68723_test_app_pdf_template" type="collection">
+        <element label="Body" max_length="8000" name="body" type="translated_html"/>
+        <element label="Category" max_length="40" name="category" type="string"/>
+        <element label="Name" max_length="64" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Table" max_length="80" name="table" type="table_name"/>
+    </element>
+</database>

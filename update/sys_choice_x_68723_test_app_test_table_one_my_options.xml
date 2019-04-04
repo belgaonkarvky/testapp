@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="my_options" table="x_68723_test_app_test_table_one" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>my_options</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice No1</label>
+            <language>en</language>
+            <name>x_68723_test_app_test_table_one</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-29 08:05:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9ad625a8db6033001b2853184b9619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-29 08:05:38</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>my_options</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice No2</label>
+            <language>en</language>
+            <name>x_68723_test_app_test_table_one</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-29 08:05:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>02076968db6033001b2853184b961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-29 08:05:49</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>my_options</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Choice No3</label>
+            <language>en</language>
+            <name>x_68723_test_app_test_table_one</name>
+            <sequence>30</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-29 08:05:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b07a5a8db6033001b2853184b9619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-29 08:05:56</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>my_options</element>
+            <name>x_68723_test_app_test_table_one</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-29 08:05:38</sys_created_on>
+            <sys_id>9ff6a5a8db6033001b2853184b961958</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>my_options</sys_name>
+            <sys_package display_value="Test App" source="x_68723_test_app">2b6af2a5db1033001b2853184b96195a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test App">2b6af2a5db1033001b2853184b96195a</sys_scope>
+            <sys_update_name>sys_choice_x_68723_test_app_test_table_one_my_options</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-29 08:05:38</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

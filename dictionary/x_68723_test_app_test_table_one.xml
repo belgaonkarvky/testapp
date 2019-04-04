@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Test Table One" max_length="40" name="x_68723_test_app_test_table_one" type="collection">
         <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element choice="1" label="My Options" max_length="40" name="my_options" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Choice No1" sequence="10" value="1"/>
+                <element inactive_on_update="false" label="Choice No2" sequence="20" value="2"/>
+                <element inactive_on_update="false" label="Choice No3" sequence="30" value="3"/>
+            </choice>
+        </element>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Small Description" max_length="256" name="small_description" type="string"/>
     </element>
 </database>
